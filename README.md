@@ -99,8 +99,8 @@ You can control the tracker using the web dashboard at **[https://creeks.netlify
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dual-axis-solar-tracker.git
-cd dual-axis-solar-tracker
+git clone https://github.com/MohsinCell/Creeks-Intelligent-Solar-Tracking-System.git
+cd Creeks-Intelligent-Solar-Tracking-System
 ```
 
 ### 2. Hardware Setup
@@ -111,7 +111,7 @@ cd dual-axis-solar-tracker
 5. Mount servos to your mechanical frame
 
 ### 3. Upload Code
-1. Open `solar_tracker.ino` in Arduino IDE
+1. Open `arduino-code.ino` in Arduino IDE
 2. Select your board: **Tools → Board → Arduino Uno** (or your model)
 3. Select COM port: **Tools → Port → COM#**
 4. Click **Upload** (→)
@@ -143,10 +143,6 @@ The tracker moves smoothly between these positions with configurable delays.
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for details.
-
----
-
-⭐ **If you find this project useful, give it a star!**
+This project is licensed under the **MIT License**.
 
 *Built for renewable energy education and practical IoT applications*
