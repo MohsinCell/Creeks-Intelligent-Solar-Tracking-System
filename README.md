@@ -3,7 +3,7 @@
 This repository contains the Arduino code for a simple dual-axis solar tracker.  
 The system controls two servos — **azimuth** and **elevation** — and supports both **automatic tracking** and **manual angle control** through serial commands.
 
-The tracker is compatible with the dashboard **[https://creeks.netlify.app/](https://creeks.netlify.app/)**).
+The tracker is compatible with the dashboard - **[https://creeks.netlify.app/](https://creeks.netlify.app/)**.
 
 ---
 
